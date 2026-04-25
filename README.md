@@ -6,7 +6,7 @@ using individual note samples to recreate melodies digitally.
 ## 📌 About the Project
 This system uses recorded individual guitar notes (C, D, E, G) and 
 synthesizes them to play complete melodies like *Mary Had a Little Lamb*.
-Built as part of [Course Name] — [Your University Name].
+Built as part of [CS-215 Signal amd Systems Course] 
 
 ## 🎯 Objectives
 - Record and process individual guitar note samples
